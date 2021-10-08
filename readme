@@ -1,8 +1,0 @@
-This project is an Assignment project for Navigus.
-To run this project:
-* clone or download the project
-* install XAMPP with phpmyadmin, mysql db and apache server
-* put extacted project in C:\xampp\htdocs
-* Run apache and mysql in xampp
-* Import script from C:\xampp\htdocs\HJ-Navigus\database and run on mysql admin
-* run project on localhost/cee
